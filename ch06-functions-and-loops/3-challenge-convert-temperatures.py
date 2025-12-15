@@ -21,6 +21,7 @@ def convert_far_to_cel(temp_far):
     return (temp_far - 32) * (5 / 9)
 
 
+
 # Prompt the user to input a Fahrenheit temperature.
 temp_far = get_numeric_input("Enter a temperature in degrees F: ")
 
