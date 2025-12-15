@@ -1,9 +1,6 @@
 # 6.4 - Run in Circles
 # Solutions to review exercises
 
-# This exercise focuses on using a for loop to repeat an action
-# a specific number of times. Pay attention to how the loop
-# variable changes on each iteration.
 
 # Exercise 1
 # print the integer 2 through 10 using a "for" loop
